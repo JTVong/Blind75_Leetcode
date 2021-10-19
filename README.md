@@ -33,8 +33,9 @@ Output: 2.00000
  ```
 
 **Constraints:**
-```
+
 * Bullet list
+```
 *nums1.length == m
 *nums2.length == n
 *0 <= m <= 1000
